@@ -1,3 +1,5 @@
+**STOP - You might want to simply clone [this directory](https://github.com/SCPR/static-projects/tree/master/timelines/pasadenas-devils-gate-dam) and change parameters**
+
 ## Creating timelines for scpr.org web stories
 
 * **Created**: 11/19/2012 by [Chris Keller](ckeller@scpr.org)
